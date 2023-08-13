@@ -1,5 +1,39 @@
 {
   "kittens": [
-    { "id": 0, "firstname":"Nic", "lastname":"Patterson", "alias":"withoutaK", "quote":"I do stuff"}
+    {
+      "id": 0,
+      "firstname": "Nic",
+      "lastname": "Patterson",
+      "alias": "withoutaK",
+      "quote": "I am all about that crit"
+    },
+    {
+      "id": 1,
+      "firstname": "Jenna",
+      "lastname": "Luu",
+      "alias": "ftw",
+      "quote": "SQUUUEEEEE!!!"
+    },
+    {
+      "id": 2,
+      "firstname": "Angie",
+      "lastname": "Brunneman",
+      "alias": "sits",
+      "quote": "Is that all?!?"
+    },
+    {
+      "id": 3,
+      "firstname": "Ted",
+      "lastname": "Cunningham",
+      "alias": "the lasso",
+      "quote": "I do stuff"
+    },
+    {
+      "id": 4,
+      "firstname": "Rob",
+      "lastname": "Ralph",
+      "alias": "the cruelty",
+      "quote": "Life is a cruel mistress"
+    }
   ]
 }
